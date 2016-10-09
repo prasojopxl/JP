@@ -13,7 +13,8 @@
 <![endif]-->
 </head>
 <body>
- 
+
+<!-- header --> 
 <?php include "inc/header1.php"; ?>
 
 <div id="bodyweb">

@@ -27,7 +27,7 @@
 						<div class="content">
 							<div class="subtitle">
 								<div class="imgwrp"><img src="assets/images/icon-featured.png" alt=""/></div>
-								<a href="#">Featured</a>
+								<a href="#">Featureds</a>
 								<div class="time">5 minutes Ago</div>
 							</div>
 							<h2><a href="#">Jokowi resmikan terminal baru Bandara Sultan Thaha</a></h2>
